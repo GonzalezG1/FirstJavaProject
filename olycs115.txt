@@ -1,0 +1,26 @@
+Germany
+5
+Greis	Michael	34	0.53	s	nordic skiing
+Hettich	Georg	27	0.77	s	nordic combined
+Glagow	Martina	23	0.14	s	biathlon
+Fischer	Sven	36	1	s	biathlon
+Otto	Sylke	51	0.36	i	luge
+US
+4
+Ligety	Ted	21	2.3	s	alpine skiing
+Dawson	Toby	27	3.7	s	freestyle skiing
+Wescott	Seth	31	6.33	s	snowboarding
+Jacobellis	Lindsey	23	9.3	s	snowboarding
+Canada
+6
+Gibson	Duff	50	0.43	i	skeleton
+Pain	Jeff	39	0.25	i	skeleton
+Maltais	Dominique	26	1.8	s	snowboarding
+Klassen	Cindy	33	5.32	i	speedskating
+Crawford	Chandra	42	0.35	s	nordic skiing
+Groves	Kristina	21	4.5	i	speedskating
+Russia
+2
+Sidko	Alena	40	0.78	s	nordic skiing
+Slutskaya	Irina	26	9.56	i	figure skating
+END_OF_FILE
