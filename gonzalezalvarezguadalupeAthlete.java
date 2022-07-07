@@ -1,4 +1,4 @@
-//Guadalupe Gonzalez 
+//Nicolas Gonzalez 
 //CS115-001
 //ID # 20348998
 // This is my athlete's class. 
