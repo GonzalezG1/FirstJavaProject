@@ -3,7 +3,7 @@ Winter Olympics information program
 
 This program is given a data file in a particular formay to read into the program and use for data information 
 used when runningthe program. The data file is posted and is named olycs115.txt (Olympics text file). 
-The format of the file and recoomended types for each field are: 
+The format of the file and recommended types for each field are: 
 
 Country(string)
 Number_of_athletes_in_ country (int)
