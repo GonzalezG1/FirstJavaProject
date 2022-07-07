@@ -1,4 +1,4 @@
-//Guadalupe Gonzalez
+//Nicolas Gonzalez
 //CS115-001
 //ID # 20348998
 /*This my client program where I will attempt to display the main options that will either take the user to the menu method or the final stats method
